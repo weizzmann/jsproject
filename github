@@ -7,3 +7,6 @@ git log --pretty=oneline
 
 git remote add origin https://github.com/weizzmann/jsproject.git
 git push -u origin master
+
+git clone
+git pull
