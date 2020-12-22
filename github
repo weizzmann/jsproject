@@ -1,0 +1,9 @@
+git status
+
+git add -A
+git commit -a -m"second commit"
+
+git log --pretty=oneline
+
+git remote add origin https://github.com/weizzmann/jsproject.git
+git push -u origin master
